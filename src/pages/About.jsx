@@ -47,7 +47,7 @@ const DEFAULTS = {
   aboutMe: 'Üniversite hayatım boyunca bölümümün bana kazandırdığı en değerli yetenek, teknik ezberin ötesine geçip analitik düşünme refleksini kazanmak oldu. Algoritmik mantık ve veri mimarileri üzerine inşa ettiğim altyapı, problemlere çok boyutlu ve çözüm odaklı bakmamı sağlıyor.',
   uniContribution: 'Bu sistematik yaklaşımı, fikir aşamasından kodlamasına kadar uçtan uca tasarlayıp hayata geçirdiğim yazılım projelerinin her adımında aktif olarak kullanıyorum.',
   technicalAnalysis: 'Finansal piyasalara olan ilgim, beni profesyonel düzeyde teknik analiz öğrenmeye yöneltti. Kripto para ve forex piyasalarında Pine Script kullanarak TradingView üzerinde çalışan özel indikatör kodları geliştiriyorum.',
-  coursesTaken: 'Veri Yapıları ve Algoritmalar, Nesne Yönelimli Programlama, Veritabanı Yönetim Sistemleri, Web Geliştirme, Yapay Zeka, Mobil Programlama, Bilgisayar Ağları, İstatistik, Grafik Tasarım',
+  coursesTaken: 'Veri Yapıları ve Algoritmalar, Nesne Yönelimli Programlama, Veritabanı Yönetim Sistemleri,Doğru ve Alternatif Akım Devreleri,Tesisat ve Pano Tasarımı, Web Geliştirme,Elektrik-Elektronik Teknolojisi , Yapay Zeka, Mobil Programlama, Bilgisayar Ağları, İstatistik, Grafik Tasarım',
 }
 
 export default function About() {
@@ -130,7 +130,7 @@ export default function About() {
               <p className="text-sm font-mono font-semibold text-primary-400 tracking-wider uppercase mb-1">Eğitim</p>
               <h3 className="text-xl font-display font-bold text-slate-900 dark:text-white">Bartın Üniversitesi</h3>
               <p className="text-slate-500 dark:text-slate-400 mt-1">
-                Bilgisayar Teknolojisi ve Bilişim Sistemleri
+            
                 <span className="hidden sm:inline"> · </span>
                 <span className="block sm:inline">4. Sınıf Öğrencisi</span>
               </p>
