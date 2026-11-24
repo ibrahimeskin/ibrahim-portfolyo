@@ -132,7 +132,7 @@ export default function About() {
               <p className="text-slate-500 dark:text-slate-400 mt-1">
             
                 <span className="hidden sm:inline"> · </span>
-                <span className="block sm:inline">4. Sınıf Öğrencisi</span>
+                <span className="block sm:inline"></span>
               </p>
             </div>
           </div>
